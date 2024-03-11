@@ -188,7 +188,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gradient-tech-futuristic-background_52683-74268 copy_0: 6666199759760296660
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

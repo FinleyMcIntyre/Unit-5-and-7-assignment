@@ -188,7 +188,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      blue-technological-background_1406-11 copy_0: -119051357734254541
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
